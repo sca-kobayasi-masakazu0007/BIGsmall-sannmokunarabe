@@ -1,12 +1,10 @@
 # BIGsmall-sannmokunarabe
 
-this is sanmokunarabe project
-
 ＜プロジェクト名＞
 三目並べ
 
 ＜チーム名＞
-BIGsmall
+BIGsmall(ビッグスモール)
 
 ＜概要＞
 三目並べを作るプロジェクトです
@@ -14,3 +12,4 @@ BIGsmall
 ＜メンバー＞
 ・大原優太
 ・小林正和
+
